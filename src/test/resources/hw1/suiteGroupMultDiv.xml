@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="suiteMultDiv">
+    <test verbose="2" preserve-order="true" name="C:/Users/ПК/IdeaProjects/IvanovaMariia/src/test/resources">
+        <groups>
+            <run>
+                <include name="test-group-multdiv"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="hw1.TestGroupMultDiv" />
+        </packages>
+    </test>
+</suite>
